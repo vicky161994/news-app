@@ -1,0 +1,30 @@
+.heading {
+    text-align: center;
+    font-size: 22px;
+    color: grey;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    padding: 10px;
+}
+
+.search-container input {
+    height: 30px;
+    border-radius: 8px;
+    margin: 5px;
+    width: 300px;
+}
+
+.search-container button {
+    height: 35px;
+    border: none;
+    border-radius: 8px;
+    margin: 5px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.news-container {
+    padding: 10px;
+}
